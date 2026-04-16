@@ -1,0 +1,3 @@
+# Ignorar arquivos de log gerados pelo seu script
+*-log-*.txt
+*.log
